@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AprendendoSpringApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Testando o workflow");
 		SpringApplication.run(AprendendoSpringApplication.class, args);
 	}
 
